@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mintic</groupId>
-	<artifactId>seguridad</artifactId>
+	<artifactId>seguridad24</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>seguridad</name>
-	<description>Seguridad</description>
+	<name>seguridad24</name>
+	<description>Seguridad24</description>
 	<properties>
 		<java.version>19</java.version>
 	</properties>
